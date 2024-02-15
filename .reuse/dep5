@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: My Reimplementation of C Standard Library
+Upstream-Contact: Integral <integral@member.fsf.org>
+Source: https://github.com/Integral-Tech/c-stdlib-reimplementation
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
